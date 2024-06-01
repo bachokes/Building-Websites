@@ -1,0 +1,125 @@
+<html>
+    <head>
+        <title>Proyecto de Restaurante</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+
+        <header>
+            <img src="https://drive.google.com/thumbnail?id=1GwgqdY3qi989txevmN_6UmGbEoOpZodm" alt="Logo local">
+        </header>
+
+                <nav>
+                    <ul>
+                        <li><a href="#introduccion">Introducción</a></li>
+                        <li><a href="#gestion">Gestión</a></li>
+                        <li><a href="#ubicacion-aforo">Ubicación y aforo</a></li>          
+                        <li><a href="#segmentacion-mercado">Segmentación del mercado</a></li>
+                        <li><a href="#webgrafia">Webgrafía</a></li>
+
+                    </ul>
+                </nav>
+
+                <hr>
+
+            <h3 id="introduccion">INTRODUCCIÓN</h3>
+            <p>“NAKAMA” es un restaurante de comida Japonesa y Occidental en el Resort de lujo The Ritz-Carlton, Abama (Tenerife) donde se podrá disfrutar de productos de la mejor calidad y el mejor servicio que se puede ofrecer. Los huéspedes del The Ritz-Carlton, Abama no necesitan dejar la magnífica finca para encontrar una experiencia gastronómica inolvidable en armonía con el espectacular entorno. Es una oportunidad de negocio porque se sitúa en un Resort de alta categoría que disfruta de una situación favorable gracias a las "facilidades" que nos puede ofrecer el Resort.</p>
+
+                <hr>
+
+
+            <h3 id="gestion">GESTIÓN DE LA PRODUCCIÓN EN COCINA</h3>
+            <h4>Tipo de mercado</h4>
+            <p>El restaurante no sería el único que hay en el resort, de hecho, si contamos con el Lobby Bar, el Sports Bar y otros restaurantes informales se cuentan hasta 12 ‘restaurantes’ con 3 estrellas michelín repartidas entre dos restaurantes, uno de ellos abierto por el Chef Martín Berasategui. Sabiendo esto parecería una locura abrir otro restaurante, pero conociendo los horarios de apertura de los restaurantes, la relación que hay entre ellos, la superficie del resort y la cantidad ingente de huéspedes que pueden acceder a los restaurantes igualmente si son huéspedes del Resort o ‘‘walk-in’’ que pueden venir de fuera del hotel, estamos ante una oportunidad única en la que nuestra "competencia" podría ser nuestra aliada al tener la misma visión y misión de negocio.</p>
+
+                <hr>
+
+            <h4 id="ubicacion-aforo">Ubicación y aforo</h4>
+            <p>Nos fijaremos en aspectos como la proximidad a nuestro público objetivo, el atractivo del propio espacio y las facilidades de acceso para los clientes. "NAKAMA" estará situado en el Resort The Ritz-Carlton, Abama, Carretera General, TF-47, km 9 Guía de Isora Tenerife, 38687 España.</p>
+
+            <p><a href="http://www.ritzcarlton.com/content/dam/the-ritz-carlton/hotels/europe/spain/tenerife-abama/pdf/Resort_map_Baja.pdf">Mapa del Resort</a></p>
+
+            <p>El local se montará al lado de los restaurantes Verona y 20/20 Steakhouse, en el centro de la ciudadela del resort. Tendrá un aforo de unas 150 personas, con una superficie de 290m² en el que todo será montado desde cero pero con toda la instalación de humos, agua, gas y luz en marcha.
+            La cocina y cuarto frío cuenta con 3 cámaras, 5 neveras, 4 fuegos de inducción, una freidora, 4 planchas y un horno Rational modelo 202. Y el obrador y la pastelería se encontrarían al lado del restaurante comunicando con el cuarto frío del Verona y 20/20.
+            El personal se cambiaría en los vestuarios que estarían localizados a la entrada de RRHH.</p>
+
+                <hr>
+
+            <h2 id="segmentacion-mercado">Segmentación del mercado</h2>
+            <p>Se realiza una segmentación del mercado para centrarse en grupos con características similares los cuales serían capaces y estarían dispuestos a pagar por nuestro producto y nuestro servicio.</p>
+            
+            <h3>CRITERIOS DE SEGMENTACIÓN Y VARIABLES DE SEGMENTACIÓN</h3>
+
+                <table>
+                    <tr>
+                        <th>DEMOGRÁFICA</th>
+                        <th>EDAD</th>
+                        <td>Entre 25 y +75 años</td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <th>NIVEL ADQUISITIVO</th>
+                        <td>Alto</td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <th>RAZA/NACIONALIDAD</th>
+                        <td>Todas</td>
+                    </tr>
+                    <tr>
+                        <th>GEOGRÁFICA</th>
+                        <th>ZONA</th>
+                        <td>Llegamos a todas las partes del mundo, pero los más concurridos son, Españoles, Alemanes, Rusos, Árabes, Ingleses y estadounidenses</td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <th>DIFERENCIAS CULTURALES</th>
+                        <td>En el restaurante se trata a todo cliente como dama y caballero no importa su cultura, pero por eso mismo aprovecharemos para ofrecerle la mejor experiencia que se puede acercar a cada persona.</td>
+                    </tr>
+                    <tr>
+                        <th>CONDUCTA</th>
+                        <th>CANTIDAD DE USO</th>
+                        <td>Depende de la frecuencia vacacional</td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <th>TIPO DE USO</th>
+                        <td>Cenas</td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <th>SITUACIÓN DE LEALTAD</th>
+                        <td>Usuarios de lealtad compartida</td>
+                    </tr>
+                    <tr>
+                        <th>PSICOGRÁFICA Y<br>SOCIOCULTURAL</th>
+                        <th>ESTILO DE VIDA</th>
+                        <td>Importante puesto de trabajo<br>Consideran las actividades de recreación importantes en busca de experiencias inolvidables y las realizan en familia, pareja, depende de la situación de la persona.</td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <th>CLASE SOCIAL</th>
+                        <td>Alta</td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <th>PERSONALIDAD</th>
+                        <td>Extrovertidos<br>Independientes<br>Familiares/sociales/individualistas</td>
+                    </tr>
+                </table>
+
+                        <hr>
+
+                    <footer >
+
+                    <h3 id="webgrafia">WEBGRAFÍA</h3>
+                    
+                    <p><a href="https://es.wikipedia.org/wiki/Wikipedia:Portada">wikipedia</a><br>
+                    <a href="http://www.ritzcarlton.com/es/hotels/spain/abama">Ritz-Carlton</a><br>
+                    <a href="https://www.wagamama.es/">wagamama</a><br>
+                    <a href="https://maquinariahosteleriashop.net/producto/horno-rational-selfcookingcenter-modelo-202-gas-electrico/">maquinariahosteleriashop</a><br></p>
+
+                    </footer>
+
+    </body>
+</html>
